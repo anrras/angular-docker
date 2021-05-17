@@ -1,5 +1,6 @@
 # angular-docker
-Angular docker image with multi-stage builds
+Build Angular project using docker image with multi-stage builds
+
 
 # Prerequisitos
 - NodeJS +8
