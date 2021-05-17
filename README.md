@@ -23,7 +23,7 @@ In the terminal run: `docker run --rm -p 8080:80 myapp`
 
 ### 5. Watch the page in the browser
 
-In the browser open a new tab with:  `http://localhost:8080/`
+In the browser open a new tab with:  [http://localhost:8080/](http://localhost:8080/)
 
 
 idea tomada de : https://dev.to/avatsaev/create-efficient-angular-docker-images-with-multi-stage-builds-1f3n
